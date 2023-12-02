@@ -1,8 +1,8 @@
-<h1>CGlobalsolution-Front-end-WebDevelopement</h1>
+<h1>Globalsolution-Front-end-WebDevelopement</h1>
 
 > Status: Developing ⚠️
 
-### Global Solution - Frontend, Web Developmentcreating a responsive E-Commerce called Candleaf with good practices of HTML e CSS.
+### Global Solution - Frontend, Web Development.
 
 # Group : 
 
